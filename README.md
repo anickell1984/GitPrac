@@ -6,7 +6,7 @@
 
 ### I was successful! 
 
-- I made a file using the *touch* command  
+- I made a file using the *touch* command.  
 - I opened the file in my text editor, *Visual Studio Code* , horay! 
 - I have made a heading, and a description, which I cleverly copy and pasted! 
 
