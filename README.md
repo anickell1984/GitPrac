@@ -1,4 +1,4 @@
-# This is a Read Me File. I know because the file is titled README
+# This is a Read Me File. I know because the file is titled README.
 
 ## The Challenge
 
